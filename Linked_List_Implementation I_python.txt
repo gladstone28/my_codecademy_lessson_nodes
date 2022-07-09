@@ -1,0 +1,13 @@
+LINKED LISTS: PYTHON
+Linked List Implementation I
+With the Node in hand, we can start building the actual linked list. Depending on the end-use of the linked list, a variety of methods can be defined.
+
+For our use, we want to be able to:
+
+get the head node of the list (it’s like peeking at the first item in line)
+add a new node to the beginning of the list
+print out the list values in order
+remove a node that has a particular value
+Let’s get started!
+
+Note: Because the workspace is set up with spaces instead of tabs, you will need to use spaces to prevent Python from throwing an error. You can learn more about this here.

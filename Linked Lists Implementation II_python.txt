@@ -1,0 +1,10 @@
+LINKED LISTS: PYTHON
+Linked Lists Implementation II
+So far we can:
+
+create a new LinkedList using .__init__()
+get the head node of the list using .get_head_node()
+Next up, we’ll define methods for our LinkedList class that allow us to:
+
+insert a new head node
+return all the nodes in the list as a string so we can print them out in the terminal!

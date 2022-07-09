@@ -1,0 +1,11 @@
+LINKED LISTS: PYTHON
+Node Implementation
+Let’s implement a linked list in Python. As you might recall, each linked list is a sequential chain of nodes. So before we start building out the LinkedList itself, we want to build up a Node class in Python that we can use to build our data containers.
+
+Remember that a node contains two elements:
+
+data
+a link to the next node
+Ready? Let’s get started!
+
+Note: Because the workspace is set up with spaces instead of tabs, you will need to use spaces to prevent Python from throwing an error. You can learn more about this here.

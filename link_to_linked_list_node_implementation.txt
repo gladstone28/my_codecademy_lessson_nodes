@@ -1,0 +1,1 @@
+https://www.codecademy.com/paths/computer-science/tracks/cspath-cs-102/modules/linked-lists/lessons/learn-linked-lists-python/exercises/linked-lists-python-node
