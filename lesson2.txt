@@ -1,0 +1,5 @@
+NODES: PYTHON
+Nodes Python Getters
+We need methods to access the data and link within the node. For this, we will use two getters, .get_value() and .get_link_node().
+
+These should each return their corresponding value on the self object.

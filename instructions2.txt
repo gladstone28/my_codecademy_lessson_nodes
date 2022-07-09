@@ -1,0 +1,11 @@
+Instructions
+1.
+Implement the .get_value() getter in the Node class.
+
+Checkpoint 2 Passed
+
+Hint
+Your method should return your node’s value property.
+
+2.
+Implement the .get_link_node() getter in the Node class.

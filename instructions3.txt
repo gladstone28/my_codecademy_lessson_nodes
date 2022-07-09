@@ -1,0 +1,3 @@
+Instructions
+1.
+Implement the .set_link_node() setter in the Node class.
